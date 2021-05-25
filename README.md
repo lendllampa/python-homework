@@ -10,9 +10,10 @@ For the assignment, we are given a [budget_data.csv](repos/python-homework/PyBan
 5. The Greatest Decrease in Profit/Losses over the time period.
 
 ## The Expected Results
-Python should calculate the results to reflect the following:
-Total Months: 86
-Total: $38382578
-Average  Change: $-2315.12
-Greatest Increase in Profits: Feb-2012 ($1926159)
+Python should calculate the results to reflect the following:\
+
+Total Months: 86\
+Total: $38382578\
+Average  Change: $-2315.12\
+Greatest Increase in Profits: Feb-2012 ($1926159)\
 Greatest Decrease in Profits: Sep-2013 ($-2196167)
