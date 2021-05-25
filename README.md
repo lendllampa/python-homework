@@ -1,7 +1,7 @@
 # Unit 2 | Homework Assignment: Automate Your Day Job with Python
 
 ## About
-For the assignment, we are given a [budget_data.csv](repos/python-homework/PyBank/budget_data.csv) file that holds the month to month Profit and Losses of a bank. My task was to create a Python script that analyzes the records to calculate each of the following:
+For the assignment, I am given a [budget_data.csv](~/repos/python-homework/PyBank/budget_data.csv) file that holds the month to month Profit and Losses of a bank. My task was to create a Python script that analyzes the records to calculate each of the following:
 
 1. The total number of months in the dataset.
 2. The net total of Profit/Losses over the time period.
@@ -10,7 +10,7 @@ For the assignment, we are given a [budget_data.csv](repos/python-homework/PyBan
 5. The Greatest Decrease in Profit/Losses over the time period.
 
 ## The Expected Results
-Python should calculate the results to reflect the following:\
+Python should calculate the results to reflect the following:
 
 Total Months: 86\
 Total: $38382578\
